@@ -11,6 +11,3 @@ between words in a sequence. With 3 billion parameters, it balances scalability 
 strong performance for task
 
 
-Author:-
-Sonu Kumar(MT23144)
-Mo. Rashid (MT23105)
